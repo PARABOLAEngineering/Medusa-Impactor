@@ -2,3 +2,7 @@ This script automates the otherwise complex task of cloning and binding the Swis
 
     Maximum Performance – Direct bindings ensure API calls are as fast as possible, with 100% of the Swiss Ephemeris functions and constants available.
     Comprehensive Documentation – Readable bindings and constants are provided in bindings.rs and sweph.h, unlike many existing crates, which often lack proper documentation.
+
+Usage: git clone https://github.com/PARABOLAEngineering/Medusa-Impactor.git && chmod +x Medusa-Impactor.sh 
+
+Then: ./Medusa-Impactor.sh
